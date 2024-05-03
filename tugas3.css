@@ -55,7 +55,7 @@ form input[type="submit"] {
 .profile-photo img {
   border-radius: 50%; /* Mengatur border-radius menjadi 50% akan membuat gambar menjadi bulat */
   border: 3px ;
-  width: 7cm;
+  
 }
 
 #profile {
